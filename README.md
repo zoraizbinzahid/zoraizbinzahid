@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Zoraiz Bin Zahid 👨‍💻</h1>
-<h3 align="center">Full-Stack Developer | Python & Django Backend | React Frontend | ML Enthusiast</h3>
+<h3 align="center">## Full-Stack Software Engineer | Next.js • TypeScript • Django • Python</h3>
 
 ---
 
