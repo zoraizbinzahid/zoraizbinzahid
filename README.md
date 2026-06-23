@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Zoraiz Bin Zahid 👨‍💻</h1>
-## Full-Stack Software Engineer | Next.js • TypeScript • Django • Python
+<h3 align="center">Full-Stack Software Engineer | Next.js • TypeScript • Django • Python</h3>
 
 ---
 
